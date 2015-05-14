@@ -12,8 +12,6 @@ nolist = true
 
 ####  International Workshop Invasive species threat and management (18-21 September 2012, Bialowiesa, Poland).
 
-Test 1
-
 **Bonnaud E.**, Nino M., Medina F.M., Nogales M. “Feral cat diet and impact in Canary islands with a focus on La Palma Island.”
 
 ####  Public meeting at the National Parc of Port-Cros. (16 April 2012, Hyères, France).
