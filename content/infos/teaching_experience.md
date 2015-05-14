@@ -7,9 +7,6 @@ nodate = true
 nolist = true
 +++
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
 # 2011- on
 
 **Lecturer, University of Paris-Sud - Paris XI**
