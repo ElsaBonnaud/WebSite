@@ -46,10 +46,11 @@
             	{{ end }}
             {{ end }}
 
+			{{ $Site := .Site }}
 			{{ if .Params.categories }}
 				<div class="post-categories">
 				{{ range .Params.categories }}
-					<a class="post-category post-category-{{ . | urlize }}" href="/categories/{{ . | urlize }}">{{ . }}</a> 
+					<a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL}}/categories/{{ . | urlize }}">{{ . }}</a>
 				{{ end }}
 				</div>
 			{{ end }}
@@ -59,7 +60,9 @@
 		    {{ end }}
 
 			{{ if .Params.bannerinline }}
-				<img src="{{ .Params.bannerinline }}" class="pure-img content-banner-image-inline" />
+				<img src="{{ .Params.bannerinline }}" class="pure-img content-banner-image-inline"
+                                     style="{{ if .Params.bannerfill }}width: 100%;{{ end }}
+                                            {{ if .Params.bannerheight }}height: {{ .Params.bannerheight }}px;{{ end }}" />
 			{{ end }}
 
             {{ .Content }}
@@ -72,7 +75,7 @@
 				<div class="tags-list">
 					<span class="dark-red">Tags</span><span class="decorative-marker">//</span>
 					{{ range .Params.tags }}
-	                <a class="post-tag post-tag-{{ . | urlize }}" href="/tags/{{ . | urlize }}">{{ . }}</a>, 
+	                <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">{{ . }}</a>,
 	                {{ end }}
 				</div>
 			{{ end }}

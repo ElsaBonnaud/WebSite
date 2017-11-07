@@ -1,7 +1,7 @@
-baseurl = "https://www.elsabonnaud.fr"
+baseURL = "https://www.elsabonnaud.fr"
 languageCode = "en-us"
 title = "Elsa Bonnaud"
-
+theme = "elsa"
 
 [params]
     description = "MCF Lecturer"

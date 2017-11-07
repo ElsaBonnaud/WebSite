@@ -9,7 +9,6 @@
 
       <div class="posts">
         {{ range .Data.Pages }}
-          {{ if not .Params.nolist }}
           <section  class="post">
             <header class="post-header">
             {{ if .Params.thumbnail }}
@@ -35,21 +34,24 @@
               {{ end }}
       				{{ if .Params.categories }}
       					<div class="post-categories">
+				        {{ $Site := .Site }}
       					{{ range .Params.categories }}
-      						<a class="post-category post-category-{{ . | urlize }}" href="/categories/{{ . | urlize }}">{{ . }}</a> 
+					        <a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL}}/categories/{{ . | urlize }}">{{ . }}</a>
       					{{ end }}
       					</div>
       				{{ end }}
             </p>
-            <article class="post-summary">
+            {{ if .Truncated  }}
+              <article class="post-summary">
             	{{ .Summary }}
-            </article>
-          }
-			<div class="read-more-link">
+              </article>
+			  <div class="read-more-link">
 				<a href="{{ .RelPermalink }}"><span class="read-more-slashes">//</span>Read More...</a>
-			</div>
+			  </div>
+            {{ else }}
+              {{ .Content }}
+            {{ end }}
           </section>
-        {{ end }}
         {{ end }}
       </div>
 

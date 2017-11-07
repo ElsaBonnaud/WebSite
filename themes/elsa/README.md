@@ -1,6 +1,8 @@
 Red Lounge
 ===========
 
+NOTICE: This theme is no longer maintained (or very slowly maintanied). Unless a pull request comes in that makes sense to merge, don't expect updates. Hugo has since updated a bit since this theme was created. So there may be some incompatibilities or missing features (certainly missing features). Please feel free to submit pull requests. Also if anyone is interested in maintaning the theme, please let me know. Thanks!
+
 This is an open-source Hugo theme designed by [@shift8creative](http://www.twitter.com/shift8creative) to be responsive and clean. It uses Pure.css and contains a few web fonts from Google as well as Font Awesome icons. 
 So despite it being simple, it has a lot of flexibility in terms of typography and design elements. It's also quite configurable as it has a few variables to change the
 appearance and features of the pages. By default, excess features (and JavaScript) is not included.
@@ -15,10 +17,20 @@ The sidebar can be configured with your main site config using params. For examp
 [params]
 	sidebartitle = "My Site"
 	sidebartagline = "Is super awesome"
+	sidebarphoto = "/img/photo.png"
 ```
 
-Neither the title nor tagline will be shown if not set. You will want to keep these lines short since there's limited space. 
+This three properites will not be shown if not set. You will want to keep these lines short since there's limited space. 
 Alternatively you could add custom HTML using the ```sidebarheader.html``` partial and keep those values empty strings.
+
+### Google Analytics
+
+Google Analytics can be configured with your main site config by entering the Google Analytics tracking id under params. For example, in ```config.toml```
+
+```
+[params]
+	gaid = "UA-XXXXXXXX-X"
+```
 
 ### Menus
 
