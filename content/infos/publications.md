@@ -11,7 +11,7 @@ nolist = true
 
 * Medina F. M., **Bonnaud E.**, Vidal E., Nogales M. Underlying ecological effects caused by invasive predators on islands: cats as example, in press to Biodiversity and Conservation.
 
-* Luque G M., Bellard C., Bertelsmeier C., **Bonnaud E.**, Genovesi P., Simberloff D., Courchamp F. (2013) The 100th of the world’s worst invasive alien species. Biological Invasions. On line
+* Luque G M., Bellard C., Bertelsmeier C., **Bonnaud E.**, Genovesi P., Simberloff D., Courchamp F. (2013) The 100th of the world’s worst invasive alien species. Biological Invasions.
 
 * Nogales M., Vidal E., Tershy B.R., Medina F.M., **Bonnaud E.**, Zavaleta E.S. (2013). From pets to pest: cats as one of the worst invasives causing mass extinction on islands. Biosciences, 63: 804–810
 
