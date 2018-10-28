@@ -12,7 +12,7 @@ nolist: true
 
 
 # 2014-on: 
-seasonal field work in surburban areas of Paris South to monitored predator populations (cats and foxes), their diet and their main prey abundances. Field data serve as inputs for community (prey-predators) dynamics models 
+seasonal field work in surburban areas of Paris South to monitor predator populations (cats and foxes), their diet and their main prey abundances. Field data serve as inputs for community (prey-predators) dynamics models. 
 
 # 2014: 
 * one week in Zembra, island of Tunisia, as expert in invasive mammals to help small Island Mediterranean Initiative team.
