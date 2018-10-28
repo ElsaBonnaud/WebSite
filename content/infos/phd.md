@@ -9,7 +9,7 @@ nolist = true
 
 # Academic employment
 
-* 2011-on: Lecturer, University of Paris-Sud (France)
+* 2011-on: Lecturer, University of Paris-South / Paris Saclay (France)
 
 * 2010-2011: Research assistant, University of La Laguna (Spain)
 
