@@ -7,7 +7,17 @@ nodate = true
 nolist = true
 +++
 
-# 2010-on
+
+# 2014-on: 
+seasonal field work in surburban areas of Paris South to monitored predator populations (cats and foxes), their diet and their main prey abundances. Field data serve as inputs for community (prey-predators) dynamics models 
+
+# 2014: 
+* one week in Zembra, island of Tunisia, as expert in invasive mammals to help small Island Mediterranean Initiative team.
+
+# 2014: 
+* two weeks in New Caledonia, visit in P. Palmas study sites for her PhD 
+
+# 2010-2012
 * many field work sessions on La Palma (Canary Islands) for feral cat project: predatory and seed dispersal impacts on island ecosystems.
 
 # 2009
