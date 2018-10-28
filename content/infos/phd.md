@@ -4,6 +4,7 @@ draft: false
 title: "Professional Experience and PhD"
 menu:
   main:
+    weight: 1  
 nopaging: true
 nodate: true
 nolist: true

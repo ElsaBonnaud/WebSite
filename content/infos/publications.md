@@ -4,6 +4,7 @@ draft: false
 title: "Publications"
 menu:
   main:
+    weight: 1  
 nopaging: true
 nodate: true
 nolist: true
