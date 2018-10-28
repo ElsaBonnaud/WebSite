@@ -4,6 +4,7 @@ draft: false
 title: "Communication"
 menu: 
   main:
+    weight: 1
 notoc: true
 nopaging: true
 nodate: true

@@ -5,6 +5,7 @@ title: "Field experience"
 weight: 8
 menu: 
   main:
+    weight: 1  
 nopaging: true
 nodate: true
 nolist: true

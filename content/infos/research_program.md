@@ -4,6 +4,7 @@ draft: false
 title: "Research programs"
 menu:
   main:
+    weight: 1  
 nopaging: true
 nodate: true
 notoc: true
