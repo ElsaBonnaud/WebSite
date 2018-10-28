@@ -2,6 +2,7 @@
 date: "2015-01-01T11:04:28+01:00"
 draft: false
 title: "Field experience"
+weight: 8
 menu: 
   main:
 nopaging: true
