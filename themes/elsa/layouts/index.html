@@ -7,6 +7,10 @@
             <a name="top"></a>
             {{ partial "listtop.html" . }}
 
+          {{ range $key, $value := .Site.Indexes.home.Pages }}
+            {{ $value.Content }}
+          {{ end }} 
+<!--
           <div class="posts">
             {{ $Site := .Site }}
             {{ range .Data.Pages }}
@@ -54,7 +58,7 @@
           </section>
           {{ end }}
         </div>
-
+-->
         {{ partial "footer.html" . }}
         </div>
     </div>

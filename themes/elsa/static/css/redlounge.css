@@ -43,6 +43,7 @@ p a {
 h1 {
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 700; 
+  font-size: 18px;
 }
 .center {
 	text-align: center;
