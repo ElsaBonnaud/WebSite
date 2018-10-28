@@ -4,7 +4,7 @@ draft: false
 title: "Teaching experience"
 menu:
   main:
-    weight: 1
+    weight: 5
 nopaging: true
 nodate: true
 nolist: true
