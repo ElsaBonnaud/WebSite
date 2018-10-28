@@ -8,6 +8,17 @@ notoc = true
 nolist = true
 +++
 
+
+## LEADER project: Study of crop consumers and consequences through trophic webs in peri-urban areas [2016-2019].
+
+Coordination: Elsa Bonnaud
+Funds: European Union, Ile de France Region, Labex BASC
+
+## 2nd phase flagship project: ASSessing Ecosystem services in Transitioning agro-ecosystemS -ASSETS [2016-2019].
+
+Coordination: Patricia Garnier & Benoit Gabrielle, lab ECOSYS,
+Funds: Labex BASC Biodiversity Agroecosystems Society and Climate
+
 ## BiodivERsA Forecasting Future Invasions and their Impacts: FFII [2013-2016]
 
 Coordination : David Wardle, Department of Forest Ecology and Management, SLU, SE-901 83 Umeå  
