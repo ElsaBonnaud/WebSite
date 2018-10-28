@@ -4,7 +4,7 @@ draft: false
 title: "Professional Experience and PhD"
 menu:
   main:
-    weight: 1  
+    weight: 6  
 nopaging: true
 nodate: true
 nolist: true
@@ -26,9 +26,10 @@ nolist: true
 
 * 2006-2007: Teaching Assistant, University of Paul Cézanne, Aix-Marseille 3 (France) ; University of Saint Charles (Aix-Marseille 1)
 
+* Ph.D. academic defense: December 2008, with honours
+
 * Ph.D.: Nov. 2005 - Nov. 2008
 
-* Ph.D. academic defense: December 2008, with honours
 
 # PhD
 

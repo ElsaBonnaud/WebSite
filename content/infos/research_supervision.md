@@ -4,7 +4,7 @@ draft: false
 title: "Research supervision"
 menu:
   main:
-    weight: 1  
+    weight: 4  
 nopaging: true
 nodate: true
 nolist: true
