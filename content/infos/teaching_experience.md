@@ -1,11 +1,14 @@
-+++
-date = "2015-01-01T11:15:07+01:00"
-draft = true
-title = "Teaching experience"
-nopaging = true
-nodate = true
-nolist = true
-+++
+---
+date: "2015-01-01T11:15:07+01:00"
+draft: false
+title: "Teaching experience"
+menu:
+  main:
+    weight: 1
+nopaging: true
+nodate: true
+nolist: true
+---
 
 # 2011- on
 

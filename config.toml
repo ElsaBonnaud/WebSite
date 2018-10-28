@@ -7,31 +7,5 @@ theme = "elsa"
     description = "MCF Lecturer"
     sidebartitle = "Elsa Bonnaud"
     sidebartagline = "MFC lecturer"
+    sectionPagesMenu = "main"
 
-[[menu.main]]
-    name = "Publications"
-    url = "/infos/publications"
-
-[[menu.main]]
-    name = "Communications"
-    url = "/infos/communication"
-
-[[menu.main]]
-    name = "PhD & Professional Experience"
-    url = "/infos/phd"
-
-[[menu.main]]
-    name = "Research Program"
-    url = "/infos/research_program"
-
-[[menu.main]]
-    name = "Teaching Experience"
-    url = "/infos/teaching_experience"
-
-[[menu.main]]
-    name = "Research Supervision"
-    url = "/infos/research_supervision"
-
-[[menu.main]]
-    name = "Field Experience"
-    url = "/infos/field_experience"

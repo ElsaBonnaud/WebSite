@@ -1,11 +1,13 @@
-+++
-date = "2014-12-31T14:57:51+01:00"
-draft = true
-title = "Publications"
-nopaging = true
-nodate = true
-nolist = true
-+++
+---
+date: "2014-12-31T14:57:51+01:00"
+draft: false
+title: "Publications"
+menu:
+  main:
+nopaging: true
+nodate: true
+nolist: true
+---
 
 # Papers published or in press in peer-reviewed journals
 

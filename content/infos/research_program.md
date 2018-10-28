@@ -1,12 +1,14 @@
-+++
-date = "2015-01-01T10:59:31+01:00"
-draft = true
-title = "Research programs"
-nopaging = true
-nodate = true
-notoc = true
-nolist = true
-+++
+---
+date: "2015-01-01T10:59:31+01:00"
+draft: false
+title: "Research programs"
+menu:
+  main:
+nopaging: true
+nodate: true
+notoc: true
+nolist: true
+---
 
 
 ## LEADER project: Study of crop consumers and consequences through trophic webs in peri-urban areas [2016-2019].

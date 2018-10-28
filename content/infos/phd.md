@@ -1,11 +1,13 @@
-+++
-date = "2015-01-01T10:57:25+01:00"
-draft = true
-title = "Professional Experience and PhD"
-nopaging = true
-nodate = true
-nolist = true
-+++
+---
+date: "2015-01-01T10:57:25+01:00"
+draft: false
+title: "Professional Experience and PhD"
+menu:
+  main:
+nopaging: true
+nodate: true
+nolist: true
+---
 
 # Academic employment
 
