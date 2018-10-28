@@ -22,7 +22,7 @@ Funds: European Union, Ile de France Region, Labex BASC
 Coordination: Patricia Garnier & Benoit Gabrielle, lab ECOSYS,
 Funds: Labex BASC Biodiversity Agroecosystems Society and Climate
 
-###  BiodivERsA Forecasting Future Invasions and their Impacts: FFII [2013-2016]
+### BiodivERsA Forecasting Future Invasions and their Impacts: FFII [2013-2016]
 
 Coordination : David Wardle, Department of Forest Ecology and Management, SLU, SE-901 83 Umeå  
 Funds: European Commission within the 7th Framework Program
