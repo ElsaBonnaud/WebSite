@@ -1,10 +1,10 @@
 ---
 date:  "2014-12-31T15:12:58+01:00"
 draft: false
-title: "Communication"
+title: "Communications"
 menu: 
   main:
-    weight: 1
+    weight: 2
 notoc: true
 nopaging: true
 nodate: true
