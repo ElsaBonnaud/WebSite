@@ -8,9 +8,8 @@ nopaging: true
 nodate: true
 nolist: true
 ---
-# HOME
 
-![Photo](/static/1(3).jpg)
+![Photo](/3.jpg)
 
 I’m an **Assistant Professor** at **Paris south University** since 2011.
 
