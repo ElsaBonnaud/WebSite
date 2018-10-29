@@ -8,7 +8,6 @@ nopaging: true
 nodate: true
 nolist: true
 ---
-# HOME
 
 ![Photo](/3.jpg)
 
