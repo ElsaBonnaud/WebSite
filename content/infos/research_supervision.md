@@ -17,6 +17,7 @@ nolist: true
 
 ## Oversight of PhD students 
 2015-2018: **Castaneda I.** Trophic competition between 2 predators (cats and foxes) in a suburban environment.
+
 2014-2017: **Palmas P.** Feral cat predation, habitat use and impact at New Caledonia hotspot scale. 
 
 ## Oversight of graduate and undergraduate research projects 
