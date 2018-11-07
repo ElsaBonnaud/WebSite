@@ -13,14 +13,17 @@ nolist: true
 
 
 ## Oversight of Post-Doctoral positions 
+
 2016-2018: **Zarzoso-Lacoste D.** Mathematical modelling of trophic chain reactions occurring in an agroecosystem 
 
 ## Oversight of PhD students 
+
 2015-2018: **Castaneda I.** Trophic competition between 2 predators (cats and foxes) in a suburban environment.
 
 2014-2017: **Palmas P.** Feral cat predation, habitat use and impact at New Caledonia hotspot scale. 
 
 ## Oversight of graduate and undergraduate research projects 
+
 2018: **Leport N.** Undergrad field assistant to monitor vertebrate dynamics that could damage crop production (2 months). Oversight 100%
 
 2018: **Varnier B.** Grad management project in applied ecology. To monitor vertebrate dynamics that could damage crop production (6months). Oversight 80%, co-supervisor Castaneda I. 
