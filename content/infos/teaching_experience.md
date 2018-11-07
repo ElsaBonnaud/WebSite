@@ -14,7 +14,7 @@ nolist: true
 
 **Lecturer, University of Paris-Sud - Paris XI**
 
-Classes in Undergraduate and Graduate levels in Population dynamics, Evolution, Genetics and Statistiques
+Classes in Undergraduate and Graduate levels in Biology, Ecosystem functionning, Population dynamics, Evolution, Genetics and Statistics
 
 # 2009 - 2010
 **As a Lecturer at University of Paris-Sud - Paris XI**
