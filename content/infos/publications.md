@@ -41,13 +41,13 @@ nolist: true
 * Russell J.C, Jones H.P., Armstrong D.P.; Courchamp F., Kappes P.J, Seddon P.J., Oppel S., Rauzon M.J., Cowan P.E., Rocamora G., Genovesi P., **Bonnaud E.**, Keitt B.S., Holmes N. D., Tershy B.R. (2016). Importance of lethal control of invasive predators for island conservation. Conservation Biology, 30: 670-672.
 
 * Zarzoso-Lacoste D., **Bonnaud E.**, Corse E., Gilles A., Costedoat C., Gouni A., Vidal E. (2016). Improving morphological diet studies with molecular ecology: An application for invasive mammal predation on island birds, Biological Conservation, 193: 134-142.
-*
+
 * **Bonnaud E.**, Berger G., Zarzoso-Lacoste D., Bourgeois K., Palmas P. & Vidal E. (2015).  First steps in studying cat movement behaviour through VHF tracking at a major world breeding site for the Mediterranean endemic Yelkouan shearwater. Revue d’Ecologie (Terre et Vie), 70 (sup.12 Invasive species »): 162-171.
-*
+
 * **Bonnaud E.** *, Palmas P. *, Bourgeois K., Ollier S., Zarzoso-Lacoste D., Vidal E. (2015). Island specificities matter: cat diet differs significantly between islands of a major breeding archipelago for a vulnerable endemic seabird. Biological Invasions, 17: 2927-2941.
-*
+
 * Nogales M., Castañeda I., López-Darias M., Medina F.M., **Bonnaud E.** (2015) The unnoticed effect of a top predator on complex mutualistic ecological interactions. Biological Invasions, 17: 1655-1665. 
-*
+
 * Medina F. M., **Bonnaud E.**, Vidal E., Nogales M. (2014). Underlying ecological effects caused by invasive predators on islands: cats as example, Biodiversity and Conservation, 23: 327-332.
 
 * Luque G M., Bellard C., Bertelsmeier C., **Bonnaud E.**, Genovesi P., Simberloff D., Courchamp F.  (2014) The 100th of the world’s worst invasive alien species. Biological Invasions, 16, 981-985.
@@ -62,27 +62,19 @@ nolist: true
 
 * J.-P. Suraud, J.-M. Gaillard, H. Fritz, J. Fennessy, **E. Bonnaud**, A. Issa. 2012. Higher than expected growth rate in an endangered giraffe population: a successful human-wildlife cohabitation Oryx, sous presse.
 
-
 * **E. Bonnaud**, F. Courchamp, F. (2011). Deciphering complex relationships between apparently unrelated species. Animal Conservation, 14: 468-470.
-
 
 * S. Oppel, A. Raine, J. J. Borg, H. Raine, **E. Bonnaud**, K. Bourgeois. 2011 Is the Yelkouan shearwater Puffinus yelkouan threatened by low adult survival rates? Biological Conservation 144: 2255–2263.
 
-
 * F. Medina, **E. Bonnaud**, M. Nogales, E. Vidal, E. Zavaleta, B. Tershy, J. Donlan, B. Keitt, M. Le Corre. 2011. A Review of the Impacts of Feral Cat on Insular Endangered Species. Global Change Biology 17: 3503–3510.
-
 
 * **E. Bonnaud**, F. Medina, E. Vidal, M. Nogales, E. Zavaleta, B. Tershy, J. Donlan, B. Keitt, M. Le Corre. (2011) A Review of feral cat diet on islands. Biological Invasions 13: 581–603.
 
-
 * **E. Bonnaud**, D. Zarzoso-Lacoste, E. Vidal, K. Bourgeois, L. Ruffino, J. Legrand. (2010) Effect of cat eradication on invasive rats, endemic shearwaters and interactions between both. Animal Conservation 13: 556–567.
-
 
 * **E. Bonnaud**, K. Bourgeois, E. Vidal, J. Legrand, M. Le Corre. (2009) How can Yelkouan shearwater survive feral cat predation? An unexpected population structure as a solution? Population Ecology 51: 261–270.
 
-
 * **E. Bonnaud**, E. Vidal, D. Zarzoso-Lacoste, F.Torre. (2008) Measuring rodent incisors from scats can increase accuracy of predator diet studies. An illustration based on island cats and rats. C. R. Biologies 331: 686–691
-
 
 * **E. Bonnaud**, K. Bourgeois, E. Vidal, Y. Kayser, Y. Tranchant, J. Legrand. (2007) Feeding ecology of a feral cat population on a small Mediterranean Island. Journal of Mammalogy 88: 1074–1081.
 
