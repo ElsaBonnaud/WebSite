@@ -13,6 +13,10 @@ nolist: true
 
 # Oral presentations-invitations
 
+#### Scientific Congress of CentraleSupelec Institut, Saclay, France, March 28, 2019.
+
+**Bonnaud E.**, Zarzoso-Lacoste D., Lafitte P., Lemler S. "Modélisation et prédiction de la dynamique des réseaux trophiques en agroécosytèmes périurbains." 
+
 ####  International Workshop Invasive species threat and management, Bialowiesa, Poland. September 18-21, 2012.
 
 **Bonnaud E.** *, Nino M., Medina F.M., Nogales M. “Feral cat diet and impact in Canary islands with a focus on La Palma Island.”

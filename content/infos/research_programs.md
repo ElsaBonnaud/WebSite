@@ -12,7 +12,7 @@ nolist: true
 ---
 
 
-### LEADER project: Study of crop consumers and consequences through trophic webs in peri-urban areas [2016-2019].
+### LEADER project: Study of crop consumers and consequences through trophic webs in peri-urban areas [2017-2020].
 
 Coordination: Elsa Bonnaud
 Funds: European Union, Ile de France Region, Labex BASC

@@ -1,7 +1,7 @@
 ---
 date: "2015-01-01T11:02:17+01:00"
 draft: false
-title: "Research supervision"
+title: "Research supervisions"
 menu:
   main:
     weight: 4  
@@ -18,11 +18,21 @@ nolist: true
 
 ## Oversight of PhD students 
 
+2019-2022: **Lusardi L.** Modeling and prediction of food web dynamics in response to anthropogenic disturbances
+
 2015-2018: **Castaneda I.** Trophic competition between 2 predators (cats and foxes) in a suburban environment.
 
 2014-2017: **Palmas P.** Feral cat predation, habitat use and impact at New Caledonia hotspot scale. 
 
 ## Oversight of graduate and undergraduate research projects 
+
+2020: **Ledamoisel J.** Undergrad management project. Biodiversity monitoring and predator-prey interactions (2 months). Oversight 50%, co-supervisor Lusardi L.
+
+2020: **Garcia-Martinez R.**  Undergrad management project. Erasmus. Biodiversity monitoring on Agroecosystem and predator movement behavior (2 months). Oversight 50%, co-supervisor Lusardi L.
+
+2019: **Miscopein A.** Grad management project in agroecology. To prepare Authorization Form to capture and monitor red foxes Vulpes vulpes and to monitor vertebrate dynamics that could damage crop production. (2 months). Oversight 100%.
+
+2019: **Lebon S.** Grad management project in applied ecology. To monitor vertebrate dynamics that could damage crop production and management remediation (6months). Oversight 100%
 
 2018: **Leport N.** Undergrad field assistant to monitor vertebrate dynamics that could damage crop production (2 months). Oversight 100%
 

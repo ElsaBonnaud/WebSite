@@ -12,7 +12,17 @@ nolist: true
 
 # Papers published or in press in peer-reviewed journals
 
-* Castañeda I., Bellard C., Jaric I., Pisanu B., Chapuis J.L., **Bonnaud E.** Global assessment of trophic patterns and home range size of red foxes (Vulpes vulpes) and domestic cats (Felis silvestris catus) in urban and peri-urban habitats, in press in Journal of Zoology
+* **Bonnaud E.** (2020) Biological Invasions 2020 Horizon. *Editorial* in a special issue: Biological Invasions 2020 Horizon, 12: on line.
+
+* Castañeda I., Zarzoso-Lacoste D., **Bonnaud E.** (2020) Overlooked dietary overlap between populations of red foxes and domestic cats in suburban habitats. Urban Ecology: on line.
+
+* Palmas P., Jourdan H., Debar L., Bourguet E., Rigault F., **Bonnaud E.**, Vidal E. (2020) A conservation paradox: endangered and iconic flightless Kagu (Rhynochetos jubatus) apparently escape feral cat predation, New Zealand Journal of Ecology, 44: 1-8.
+
+* Zarzoso-Lacoste D., **Bonnaud E.**, Corse E., Dubut V., Lorvelec O., De Meringo H., Santelli C., Meunier J.-Y., Ghestelle T., Gouni A., Vidal E. (2019) Stuck amongst introduced species: Trophic ecology of reveals complex relationships between the critically endangered Niau Kingfisher and introduced predators, competitors and prey. Neobiota, 53:61-82.
+
+* Rodríguez A., Arcos J. M., Bretagnolle V., Dias M. P., Holmes N. D., Louzao M., Provencher J., Raine A. F., Ramírez F., Rodríguez B., Ronconi R. A., Taylor R. S., **Bonnaud E.**, Borrelle S. B., Cortés V., Descamps S., Friesen V. L., Genovart M., Hedd A., Hodum P., Humphries G. R. W., Le Corre M., Lebarbenchon C., Martin R., Melvin E. F., Montevecchi W. A., Pinet P., Pollet I. L., Ramos R., Russell J. C., Ryan P. G., Sanz-Aguilar A., Spatz D. R., Travers M., Votier S. C., Wanless R. M., Woehler E. (2019) Future Directions in Conservation Research on Petrels and Shearwaters. Frontiers in Marine Sciences, 6: 1-27.
+
+* Castañeda I., Bellard C., Jaric I., Pisanu B., Chapuis J.L., **Bonnaud E.** Trophic patterns and home range size in two generalist urban carnivores: a review. Journal of Zoology, 307: 79-92.
 
 * Castañeda I., Pisanu B., Rézouki C., Baudry E., Chapuis J.L., **Bonnaud E.** (2018) Minimising catch-effort without decreasing accuracy when measuring species diversity of an urban micromammal community, Mammalian Biology, 93: 144-152.
 
@@ -87,21 +97,10 @@ nolist: true
 
 * **Bonnaud E.**, Bourgeois K., Zarzoso-Lacoste D., Vidal E. Cat impact and management on two Mediterranean sister Islands: “the French conservation touch”. (2011). In Veitch, C. R.; Clout, M. N. and Towns, D. R. (eds.). Island Invasives: Eradication and Management. Proceedings of the International Conference on Island Invasives. Gland, Switzerland: IUCN and Auckland, New Zealand: CBB. xii + 542pp
 
+* Courchamp F., Caut S., **Bonnaud E.**, Bourgeois K., Angulo E., Cerda X., Watari Y. Surprise effects on Surprise Island: was the rat eradication a success? (2011). In Veitch, C. R.; Clout, M. N. and Towns, D. R. (eds.). Island Invasives: Eradication and Management. Proceedings of the International Conference on Island Invasives. Gland, Switzerland: IUCN and Auckland, New Zealand: CBB. xii + 542pp
+
+* Y. Watari, S. Caut **E. Bonnaud**, K. Bourgeois, F. Courchamp. Recovery of an ecosystem freed from introduced rats. (2011). In Veitch, C. R.; Clout, M. N. and Towns, D. R. (eds.). Island Invasives: Eradication and Management. Proceedings of the International Conference on Island Invasives. Gland, Switzerland: IUCN and Auckland, New Zealand: CBB. xii + 542pp
+
 * Berger G., **Bonnaud E.**, Legrand J., Duhem C., Terlon E. (2011). Recensement de la population de Goéland leucophée (Larus michahellis) des îles d’Hyères. Sci. Rep. Port-Cros natl. Park, Fr., 25: 61-7.
-
-* **Bonnaud E.**, Bourgeois K., Zarzoso-Lacoste D., Vidal E.. Cat impact and management on two Mediterranean sister Islands: "the French conservation touch". In the proceedings of Island Invasive Conference. Turning the Tide II. Publication in 2011.
-
-* Courchamp F., Caut S., **Bonnaud E.**, Bourgeois K., Angulo E., Cerda X., Watari Y. Surprise effects on Surprise Island: was the rat eradication a success? In the proceedings of Island Invasive Conference. Turning the Tide II. Publication in 2011.
-
-* Y. Watari, S. Caut **E. Bonnaud**, K. Bourgeois, F. Courchamp. Recovery of an ecosystem freed from introduced rats. In the proceedings of Island Invasive Conference. Turning the Tide II. Publication in 2011.
-
-# Paper submitted or in the last step of writing
-* Bradshaw C.J.A., Ducros D., Bonnaud E., Doherty T.S., Castañeda I., Dickman C.R., Courchamp F. Low biodiversity impact of cats on continents, submitted to Global Ecology and Biodiversity. [submitted]
-
-* Palmas P., Jourdan H., Debar L., Bourguet E., Rigault F., Bonnaud E., Vidal E. A conservation paradox: endangered and iconic flightless Kagu (Rhynochetos jubatus) apparently escape feral cat predation apparently escape feral cat predation. [submitted]
-
-* Castañeda I., Zarzoso-Lacoste D., Bonnaud E. Overlooked dietary overlap between populations of red foxes and domestic cats in suburban habitats. [last step]
-
-* Castañeda I., Zarzoso-Lacoste D., Bonnaud E. Prey diversity and selection by two generalist mammalian predators in suburban habitats. [last step]
 
 

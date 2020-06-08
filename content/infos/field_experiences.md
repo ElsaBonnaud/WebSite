@@ -1,7 +1,7 @@
 ---
 date: "2015-01-01T11:04:28+01:00"
 draft: false
-title: "Field experience"
+title: "Field experiences"
 menu: 
   main:
     weight: 7
@@ -10,6 +10,8 @@ nodate: true
 nolist: true
 ---
 
+# 2021 (planned): 
+3 weeks in New Caledonia to participate to a field mission on “Matthew Hunter Walpole Islands”. Biodiversity monitoring, invasive mammal eradication feasibility.
 
 # 2014-on: 
 seasonal field work in surburban areas of Paris South to monitor predator populations (cats and foxes), their diet and their main prey abundances. Field data serve as inputs for community (prey-predators) dynamics models. 
