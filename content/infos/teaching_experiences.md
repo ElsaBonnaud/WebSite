@@ -10,28 +10,30 @@ nodate: true
 nolist: true
 ---
 
-# 2011- on :
-**As a Lecturer, University of Paris-Saclay**
 
+# 2011- on :
+**As a Lecturer, University of Paris-Saclay** (192 hours/year)
 Classes in Undergraduate and Graduate levels in Biology, Ecology, Global Changes, Ecosystem functionning, Population dynamics, Evolution, Genetics and Statistics
 
-# 2009 - 2010
-**As a Lecturer at University of Paris-Sud - Paris XI** - 96 hours
+* 2014- on: Responsible of 2nd year of University class : Ecology and Applied statistics (Licence 2)
+* 2013- on: Responsible of Master class : Population dynamics and Ecosystem management (Master 1)
 
-  Classes in Conservation ecology in English, Population dynamics, Field protocol in population monitoring 
+
+# 2009 - 2010
+**As a Lecturer at University of Paris-Sud - Paris XI** - (96 hours)
+Classes in Conservation ecology in English, Population dynamics, Field protocol in population monitoring 
+
 
 # 2009
-**As a Lecturer at University of Provence - Aix-Marseille I** - 70 hours
+**As a Lecturer at University of Provence - Aix-Marseille I** - (70 hours)
+Classes in Environment and Ecology, Animal Biology, Environment law, Ecology and field courses
 
-  Classes in Environment and Ecology, Animal Biology, Environment law, Ecology and field courses
 
 # 2006 - 2008
 **As a Teaching Assistant at University of Paul Cézanne - Aix Marseille III, University of Provence - Aix Marseille I and University of Avignon** (160 hours)
 
 * 2007 - 2008 
-
 Classes in Information sciences,  Botany, Biochemistery,  Animal production
 
 * 2006 - 2007 
-
- Classes in Conservation ecology,  Field ecology, Botany 
+Classes in Conservation ecology,  Field ecology, Botany 
