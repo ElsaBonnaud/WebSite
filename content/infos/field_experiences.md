@@ -10,6 +10,9 @@ nodate: true
 nolist: true
 ---
 
+
+![Photo](/7.jpg)
+
 # 2021 (planned): 
 3 weeks in New Caledonia to participate to a field mission on “Matthew Hunter Walpole Islands”. Biodiversity monitoring, invasive mammal eradication feasibility.
 

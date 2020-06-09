@@ -10,6 +10,9 @@ nodate: true
 nolist: true
 ---
 
+
+![Photo](/15.jpg)
+
 # Academic employment
 
 * 2011-on: Lecturer, University of Paris-South / Paris Saclay (France)

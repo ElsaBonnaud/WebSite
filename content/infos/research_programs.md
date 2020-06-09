@@ -12,6 +12,8 @@ nolist: true
 ---
 
 
+![Photo](/6.jpg)
+
 ## EMERGENCE project: Human, Animal and Environmental Health face to Lyme Disease [2019-2020]
 
 Coordination: Marc Leandri (CEMOTEV Lab, Versailles St Quentin University) & Emmanuelle Augeraud-Véron (GRETHA lab, Bordeaux University)
