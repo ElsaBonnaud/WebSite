@@ -4,16 +4,24 @@ draft: false
 title: "Publications"
 menu:
   main:
-    weight: 1  
-nopaging: true
-nodate: true
-nolist: true
+    weight: 1
 ---
 
-
-![Photo](/20.jpg)
-
 # Papers published or in press in peer-reviewed journals
+
+![Photo](/20.jpg#floatleft)
+
+* Philippe-Lesaffre M., Thibault M., Bourgeois K., Berr T., Ravache A.,Vidal E.,Courchamp F., **Bonnaud E.** Recovery of insular seabird populations years after rodent eradication. Accepted in Biological Conservation.
+
+* Bernery C., Lusardi L., Marino C., Philippe M., Angulo E., **Bonnaud E.**, Guéry L., Manfrini E., Turbelin A., Albert C., Arbieu U., Courchamp F. (2022). The PhD student experience: highlighting the positive aspects (2022). eLife, 11:e81075. Cordonnier M., Ferry N., Renaud E., Maurice A.-C., **Bonnaud E.**, Baudry E. (2022) Drivers of predation by pet cats: environment overcomes predator’s intrinsic characteristics. Accepted in Plos One.
+
+* Ahmed D.A., Hudgins E.J., Cuthbert R. N., Haubrock P., , Renault D., **Bonnaud E.**, Diagne C., Courchamp F. (2021) Modelling the cumulative damage cost impact of invasive species through time Biological Invasions, on line.
+
+* Sausse C., Baux A., Bertrand M., **Bonnaud E.**, Canavelli S., Destrez A., Klug P. E., Olivera L., Rodriguez E., Tellechea G., Zuil. S. (2021) Contemporary challenges and opportunities for the management of bird damage at field crop establishment, Crop Protection, 148, 10573.
+
+* Castañeda I., **Bonnaud E.**, Courchamp F., Luque G.M., (2021) Influence of number of queens on nest establishment for two polygynous ant species. Animals, 11, 591
+
+* Palmas P., Gouyet R., Oedin M., Millon A., Cassan J.-J., Kowi J., **Bonnaud E.**, Vidal E. (2021) Rapid feral cat recolonization after intensive culling. Neobiota, 63: 177-200.
 
 * **Bonnaud E.** (2020) Biological Invasions 2020 Horizon. *Editorial* in a special issue: Biological Invasions 2020 Horizon, 12: on line.
 
@@ -49,7 +57,7 @@ nolist: true
 
 * **Bonnaud E.** *, Palmas P. *, Bourgeois K., Ollier S., Zarzoso-Lacoste D., Vidal E. (2015). Island specificities matter: cat diet differs significantly between islands of a major breeding archipelago for a vulnerable endemic seabird. Biological Invasions, 17: 2927-2941.
 
-* Nogales M., Castañeda I., López-Darias M., Medina F.M., **Bonnaud E.** (2015) The unnoticed effect of a top predator on complex mutualistic ecological interactions. Biological Invasions, 17: 1655-1665. 
+* Nogales M., Castañeda I., López-Darias M., Medina F.M., **Bonnaud E.** (2015) The unnoticed effect of a top predator on complex mutualistic ecological interactions. Biological Invasions, 17: 1655-1665.
 
 * Medina F. M., **Bonnaud E.**, Vidal E., Nogales M. (2014). Underlying ecological effects caused by invasive predators on islands: cats as example, Biodiversity and Conservation, 23: 327-332.
 
@@ -83,6 +91,13 @@ nolist: true
 
 
 # Book chapters
+
+
+* Spatz D.R., Jones H.P., **Bonnaud E.**, Kappes P., Holmes N.D., Bedolla-Guzmán Y. (2022) Invasive Species Threats to Seabirds. In Conservation on Marine Birds (Ed. by Young L. VanderWerf E.): University of California Press.
+
+* **Bonnaud E.** & Courchamp F. (2021) Dynamique des populations à faible effectif. Enjeux de la transition écologique (Ed. Lourtioz J.-M., Lecomte J., Szopa S.). E-book, Open Access
+
+* **Bonnaud E.** & Bellard C.. (2021) Especes exotiques envahissantes. Enjeux de la transition écologique (Ed. Lourtioz J.-M., Lecomte J., Szopa S.). E-book, Open Access
 
 * **E. Bonnaud**, F. Courchamp. Conservation des biotas insulaires. in Ecologie de la Conservation; Editeur : De Boeck, sous la direction scientifique de Michel Gauthier-Clerc, François Mesleard et Jacques Blondel.
 

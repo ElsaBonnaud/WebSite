@@ -4,27 +4,50 @@ draft: false
 title: "Research supervisions"
 menu:
   main:
-    weight: 4  
-nopaging: true
-nodate: true
-nolist: true
+    weight: 4
 ---
 
-![Photo](/14.jpg)
+![Photo](/renard.jpg#floatright)
 
-## Oversight of Post-Doctoral positions 
+## Oversight of Post-Doctoral positions
 
-2016-2018: **Zarzoso-Lacoste D.** Mathematical modelling of trophic chain reactions occurring in an agroecosystem 
+2022-2024: **Hugues T.** Understanding trophic pattern of 2 mesopredator in agricultural ecosystem through metabarcoding and Individual trophic behaviour. Oversight 60%, co-supervisor Zarzoso-Lacoste D.
 
-## Oversight of PhD students 
+2021-2023: **Maurice A.-C.** Perception by stakeholders to the ecosystem service of regulation by predation Oversight 80 %, co-supervisor Baudry E.
+
+2016-2018: **Zarzoso-Lacoste D.** Mathematical modelling of trophic chain reactions occurring in an agroecosystem
+
+## Oversight of PhD students
+
+2021-2024: **Philippe M.** Impact and ecosystem services of two meso-predators in a context of declining trophic levels Oversight 100 %
 
 2019-2022: **Lusardi L.** Modeling and prediction of food web dynamics in response to anthropogenic disturbances
 
 2015-2018: **Castaneda I.** Trophic competition between 2 predators (cats and foxes) in a suburban environment.
 
-2014-2017: **Palmas P.** Feral cat predation, habitat use and impact at New Caledonia hotspot scale. 
+2014-2017: **Palmas P.** Feral cat predation, habitat use and impact at New Caledonia hotspot scale.
 
-## Oversight of graduate and undergraduate research projects 
+## Oversight of graduate and undergraduate research projects
+
+2022: **Leca G.**; **Peron M.** Grad project. Study of the microscopic part of the diet of two concomitant predators according to seasonal variations (2months) Oversight 100 %
+
+2022: **Manfrini E.** Grad research project. Modeling the impact of cat predation on two key agrosystem communities: birds and rodents (6months). Oversight 50%, co-supervisors Guery L. & Courchamp F.
+
+2022: **Stutz J.** Grad research project. How farmers and inhabitants differ in their perceptions of predators and associate ecological services (6months). Oversight 40%, co-supervisors Maurice A.C. & Roturier S.
+
+2022: **Drouin C.**; **Cam C.** Undergrad project. Weed and Bird presence in crops. How can we measure their effects through drone pictures (6 weeks). Oversight 50%, co-supervisor Ressayre A.
+
+2022: **D’Amonville T.**; **Lebigot V.** Grad management project. Study of the diet of two concomitant predators according to seasonal variations (2months) Oversight 100 %
+
+2022: **Oudart C.** Undergrad management project. Ecological tools to study predation: biodiversity monitoring and diet identification (6 weeks). Oversight 100 %
+
+2021: **Azrine M.** Grad management. Study of the diet of the fox, a generalist meso-predator present in the Saclay Plateau agroecosystem (2months). Oversight 100 %
+
+2021: **Delmotte M.**; **Moncorps L.** Undergrad management project. Study of the diet of cats and foxes, two generalist mesopredators in the Plateau de Saclay agroecosystem (6weeks). Oversight 100 %
+
+2021: **Philippe M.** Grad research project. Seabird population resilience following rodent eradication on a small remote uninhabited island (6 months). Oversight 100%
+
+2020: **Buisson P.** Undergrad management project. Predator monitoring inside a periurban agroecosystem facing predation pressure decrease (3 months). Oversight 50%, co-supervisor Lusardi L.
 
 2020: **Ledamoisel J.** Undergrad management project. Biodiversity monitoring and predator-prey interactions (2 months). Oversight 50%, co-supervisor Lusardi L.
 
@@ -36,7 +59,7 @@ nolist: true
 
 2018: **Leport N.** Undergrad field assistant to monitor vertebrate dynamics that could damage crop production (2 months). Oversight 100%
 
-2018: **Varnier B.** Grad management project in applied ecology. To monitor vertebrate dynamics that could damage crop production (6months). Oversight 80%, co-supervisor Castaneda I. 
+2018: **Varnier B.** Grad management project in applied ecology. To monitor vertebrate dynamics that could damage crop production (6months). Oversight 80%, co-supervisor Castaneda I.
 
 2017: **Chtioui B.** Grad research project in movement behavior. Study of cat movement inside urban, peri-urban and forest areas (2 months). Oversight 50%, co-supervisor Castaneda I.
 
@@ -60,7 +83,7 @@ nolist: true
 
 2015: **Bourlhonne L.** Volunteer field and lab internship to work on biodiversity conservation and trophic analyses (6 months). Oversight 50%, co-supervisor Castaneda I.
 
-2013-2014: **Castaneda I.** Grad research project in Conservation Biology. Competitive ability of invasive ants: The effect of queens (6 months). Oversight 50%, co-supervisor Luque G. 
+2013-2014: **Castaneda I.** Grad research project in Conservation Biology. Competitive ability of invasive ants: The effect of queens (6 months). Oversight 50%, co-supervisor Luque G.
 
 2012-2013: **Palmas P.** Grad research project in Conservation Biology. Feral cat trophic behavior on La Palma Island and potential to use genetic analyses in deciphering individual behavior (6months). Oversight 100%
 

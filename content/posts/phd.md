@@ -4,16 +4,13 @@ draft: false
 title: "Professional Experience and PhD"
 menu:
   main:
-    weight: 6  
-nopaging: true
-nodate: true
+    weight: 6
 nolist: true
 ---
 
+## Academic employment
 
-![Photo](/15.jpg)
-
-# Academic employment
+![Photo](/15.jpg#floatright)
 
 * 2011-on: Lecturer, University of Paris-South / Paris Saclay (France)
 
@@ -34,7 +31,7 @@ nolist: true
 * Ph.D.: Nov. 2005 - Nov. 2008
 
 
-# PhD
+## PhD
 
 *Title*: **Trophic ecology and impact of an introduced top-predator on islands. a case-study with feral cat.**
 

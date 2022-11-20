@@ -5,11 +5,10 @@ title: "Teaching experiences"
 menu:
   main:
     weight: 5
-nopaging: true
-nodate: true
-nolist: true
 ---
-![Photo](/13.jpg)
+# Teaching experience
+
+![Photo](/13.jpg#floatright)
 
 # 2011- on :
 **As a Lecturer, University of Paris-Saclay** (192 hours/year)
@@ -21,7 +20,7 @@ Classes in Undergraduate and Graduate levels in Biology, Ecology, Global Changes
 
 # 2009 - 2010
 **As a Lecturer at University of Paris-Sud - Paris XI** - (96 hours)
-Classes in Conservation ecology in English, Population dynamics, Field protocol in population monitoring 
+Classes in Conservation ecology in English, Population dynamics, Field protocol in population monitoring
 
 
 # 2009
@@ -32,8 +31,8 @@ Classes in Environment and Ecology, Animal Biology, Environment law, Ecology and
 # 2006 - 2008
 **As a Teaching Assistant at University of Paul Cézanne - Aix Marseille III, University of Provence - Aix Marseille I and University of Avignon** (160 hours)
 
-* 2007 - 2008 
+* 2007 - 2008
 Classes in Information sciences,  Botany, Biochemistery,  Animal production
 
-* 2006 - 2007 
-Classes in Conservation ecology,  Field ecology, Botany 
+* 2006 - 2007
+Classes in Conservation ecology,  Field ecology, Botany

@@ -1,11 +1,12 @@
 baseURL = "https://elsabonnaud.fr"
 languageCode = "en-us"
 title = "Elsa Bonnaud"
-theme = "elsa"
+theme = "m10c"
+defaultContentLanguage = "en-us"
 
 [params]
+    author = "Elsa Bonnaud"
+    avatar = "/avatar.jpg"
     description = "MCF Lecturer"
-    sidebartitle = "Elsa Bonnaud"
-    sidebartagline = "MFC lecturer"
-    sectionPagesMenu = "main"
+    menu_item_separator = "<br/>"
 
