@@ -16,7 +16,7 @@ I obtained a MSc in Biology and Ecology and a PhD in **Ecology and population dy
 
 I'm currently working on the **impact of predators** both on **insular ecosystems** and **peri-urban areas** to understand how global changes can induce disturbances in **predator-prey interactions**.
 
-I have co-supervised **3 post-doc**, **3 PhD students**. I am **responsible of 2 teaching units** and currently involved in  research programs regarding **predator-prey regulation disruption** that can lead to agricultural issues.
+I have co-supervised **3 post-doc**, **4 PhD students**. I am **responsible of 2 teaching units** and currently involved in  research programs regarding **predator-prey regulation disruption** that can lead to agricultural issues.
 
 I'm a **Scientific Expert** for **the national Park of Port-Cros** & for **the Small Mediterranean Island International Initiative**.
 
