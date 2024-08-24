@@ -13,7 +13,9 @@ menu:
 
 * Philippe-Lesaffre M., Thibault M., Bourgeois K., Berr T., Ravache A.,Vidal E.,Courchamp F., **Bonnaud E.** Recovery of insular seabird populations years after rodent eradication. Accepted in Biological Conservation.
 
-* Bernery C., Lusardi L., Marino C., Philippe M., Angulo E., **Bonnaud E.**, Guéry L., Manfrini E., Turbelin A., Albert C., Arbieu U., Courchamp F. (2022). The PhD student experience: highlighting the positive aspects (2022). eLife, 11:e81075. Cordonnier M., Ferry N., Renaud E., Maurice A.-C., **Bonnaud E.**, Baudry E. (2022) Drivers of predation by pet cats: environment overcomes predator’s intrinsic characteristics. Accepted in Plos One.
+* Bernery C., Lusardi L., Marino C., Philippe M., Angulo E., **Bonnaud E.**, Guéry L., Manfrini E., Turbelin A., Albert C., Arbieu U., Courchamp F. (2022). The PhD student experience: highlighting the positive aspects (2022). eLife, 11:e81075. 
+
+* Cordonnier M., Ferry N., Renaud E., Maurice A.-C., **Bonnaud E.**, Baudry E. (2022) Drivers of predation by pet cats: environment overcomes predator’s intrinsic characteristics. Accepted in Plos One.
 
 * Ahmed D.A., Hudgins E.J., Cuthbert R. N., Haubrock P., , Renault D., **Bonnaud E.**, Diagne C., Courchamp F. (2021) Modelling the cumulative damage cost impact of invasive species through time Biological Invasions, on line.
 
