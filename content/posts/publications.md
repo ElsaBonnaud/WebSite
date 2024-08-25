@@ -13,7 +13,7 @@ menu:
 
 * Lusardi L., André E., Castañeda I., Lemler S., Lafitte P., Zarzoso-Lacoste D., **Bonnaud E.** (2024) Methods for comparing theoretical models parameterized with field data using biological criteria and Sobol analysis. Ecological Modelling, 493, 110728.
 
-* Philippe-Lesaffre M.*, Lusardi L.*, Castaneda I., **Bonnaud E.** (2024) Uncovering intrinsic and extrinsic factors influencing home range size variability in owned domestic cats. Conservation Science and Practice, e13066
+* Philippe-Lesaffre M., Lusardi L., Castaneda I., **Bonnaud E.** (2024) Uncovering intrinsic and extrinsic factors influencing home range size variability in owned domestic cats. Conservation Science and Practice, e13066
 
 * Lepczyk C.A., Fantle-Lepczyk J.E., Dunham K.D., **Bonnaud E.**, Lindner J., Doherty T.S., Woinarski J.C.Z. (2023). A Global Synthesis and Assessment of Free-ranging Domestic Cat Diet. Nature Communications,14, 7809.
 

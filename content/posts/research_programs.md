@@ -9,7 +9,13 @@ menu:
 
 ![Photo](/6.jpg#floatright)
 
-### TOP_PRED project: Top predator dynamics in suburban agroecosystems: their role in crop consumer regulation [2021-2024].
+### Pred_Agri project: The meso-predator community: an asset for the agro-ecological transition [2023-2024]
+
+Coordination: **Elsa Bonnaud**, ESE Lab, Paris Saclay University
+Funds: OI C-BASC
+
+
+### TOP_PRED project: Top predator dynamics in suburban agroecosystems: their role in crop consumer regulation [2021-2024]
 
 Coordination: **Elsa Bonnaud**, ESE Lab, Paris Saclay University
 Funds: ANR Young Researcher
@@ -22,10 +28,10 @@ Funds: Maison des Sciences de l’Homme (MSH)-Paris Saclay
 
 ### LEADER project: Study of crop consumers and consequences through trophic webs in peri-urban areas [2017-2020]
 
-Coordination: Elsa Bonnaud (ESE Lab, Paris Saclay University)
+Coordination: **Elsa Bonnaud** (ESE Lab, Paris Saclay University)
 Funds: European Union, Ile de France Region, Labex BASC
 
-### 2nd phase flagship project: ASSessing Ecosystem services in Transitioning agro-ecosystemS -ASSETS [2016-2019].
+### 2nd phase flagship project: ASSessing Ecosystem services in Transitioning agro-ecosystemS -ASSETS [2016-2019]
 
 Coordination: Patricia Garnier & Benoit Gabrielle (ECOSYS Lab, AgroParisTech Institute)
 Funds: Labex BASC Biodiversity Agroecosystems Society and Climate
@@ -49,7 +55,7 @@ Funds: ANR, Programme « Villes Durables »
 Scientific partners: UMR TELEMME, UMR 5173 CNRS/MNHN/UPMC, UMR LADYSS 7533, UMR 7011 - CNRS - Université de Strasbourg, l'Institut National d'Horticulture, UMR CNRS 6116 IMEP, CAREN IFR 90, UMR 5175 CEFE LAS-LARES EA 2241, le Conservatoire Botanique national du Bassin Parisien et le Muséum National d'Histoire naturelle
 
 
-### « Atlas Analytique de la Trame Verte de Marseille » [2009 - 2011]
+### « Atlas Analytique de la Trame Verte de Marseille » [2009-2011]
 
 Coordination : Carole Barthélémy (LPED-IRD, Marseille)
 Funds: PIRVE
