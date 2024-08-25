@@ -11,7 +11,17 @@ menu:
 
 ![Photo](/20.jpg#floatleft)
 
-* Philippe-Lesaffre M., Thibault M., Bourgeois K., Berr T., Ravache A.,Vidal E.,Courchamp F., **Bonnaud E.** Recovery of insular seabird populations years after rodent eradication. Accepted in Biological Conservation.
+* Lusardi L., André E., Castañeda I., Lemler S., Lafitte P., Zarzoso-Lacoste D., **Bonnaud E.** (2024) Methods for comparing theoretical models parameterized with field data using biological criteria and Sobol analysis. Ecological Modelling, 493, 110728.
+
+* Philippe-Lesaffre M.*, Lusardi L.*, Castaneda I., **Bonnaud E.** (2024) Uncovering intrinsic and extrinsic factors influencing home range size variability in owned domestic cats. Conservation Science and Practice, e13066
+
+* Lepczyk C.A., Fantle-Lepczyk J.E., Dunham K.D., **Bonnaud E.**, Lindner J., Doherty T.S., Woinarski J.C.Z. (2023). A Global Synthesis and Assessment of Free-ranging Domestic Cat Diet. Nature Communications,14, 7809.
+
+* Ahmed D., Beidas A., Petrovskii S.V., Bailey J.D., Bonsall M.B., Hood A.S.C., Byers J.A., Hudgins E. J., Russell J.C., Růžičková J., Bodey T.W., Renault D., **Bonnaud E.**, Haubrock P.J., Soto I., Haase, P. (2023). Simulating capture efficiency of pitfall traps based on sampling strategy and the movement of ground-dwelling arthropods. Methods in Ecology and Evolution, on line.
+
+* Cordonnier M., Perro, A., Ferry N., **Bonnaud E.**, Baudry E. (2023). Pet cat personality linked to owner‐reported predation frequency. Ecology and Evolution, 13, e9651.
+
+* Philippe-Lesaffre M., Thibault M., Bourgeois K., Berr T., Ravache A.,Vidal E.,Courchamp F., **Bonnaud E.** (2023). Recovery of insular seabird populations years after rodent eradication. Biological Conservation, 37, e14042.
 
 * Bernery C., Lusardi L., Marino C., Philippe M., Angulo E., **Bonnaud E.**, Guéry L., Manfrini E., Turbelin A., Albert C., Arbieu U., Courchamp F. (2022). The PhD student experience: highlighting the positive aspects (2022). eLife, 11:e81075. 
 
