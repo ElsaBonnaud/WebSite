@@ -16,11 +16,18 @@ _build:
 I obtained a MSc in Biology and Ecology and a PhD in **Ecology and population dynamics**. My main research areas are focused on *predator-prey dynamics*, *invasive species*, *disturbed ecosystems*, *biotic interactions* and *biological conservation*.
 </div>
 
+I obtained my **research accreditation** (Habilitation to supervise researches) in November 2020.
+
 I'm currently working on the **impact of predators** both on **insular ecosystems** and **peri-urban areas** to understand how global changes can induce disturbances in **predator-prey interactions**.
 
 I have co-supervised **3 post-doc**, **4 PhD students**. I am **responsible of 3 teaching units** and currently involved in  research programs regarding **predator-prey regulation disruption** that can lead to agricultural issues.
 
-I'm a **Scientific Expert** for **the national Park of Port-Cros** & for **the Small Mediterranean Island International Initiative**.
+## Participation to scientific committees
+
+* 2023: Scientific expert for examining the ESOD (Species likely to cause damages) status at the FRB (Biodiversity Research Fondation)
+* 2022-2023: Employed as an expert for a working group at the National Agency of Sanitary Security (ANSES) France to deal with fox place inside trophic webs and as a pathogen transmitter.
+* 2018-on: Scientific expert for the national Park of Port-Cros, France.
+* 2019-on: Scientific expert for the Small Mediterranean Island International Initiative, France.
 
 ## Vulgarization / Science divulgation
 
