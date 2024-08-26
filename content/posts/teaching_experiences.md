@@ -14,6 +14,7 @@ menu:
 **As a Lecturer, University of Paris-Saclay** (192 hours/year)
 Classes in Undergraduate and Graduate levels in Biology, Ecology, Global Changes, Ecosystem functionning, Population dynamics, Evolution, Genetics and Statistics
 
+* 2022-on: Responsible of Master class: In situ conservation of species (Field class)
 * 2014- on: Responsible of 2nd year of University class : Ecology and Applied statistics (Licence 2)
 * 2013- on: Responsible of Master class : Population dynamics and Ecosystem management (Master 1)
 
