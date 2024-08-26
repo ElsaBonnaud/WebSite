@@ -11,7 +11,7 @@ menu:
 
 ## Oversight of Post-Doctoral positions
 
-2022-2024: **Hugues T.** Understanding trophic pattern of 2 mesopredator in agricultural ecosystem through metabarcoding and Individual trophic behaviour. Oversight 60%, co-supervisor Zarzoso-Lacoste D.
+2022-2024: **Hugues T.** Understanding trophic pattern of 2 mesopredators in agricultural ecosystem through metabarcoding and Individual trophic behaviour. Oversight 60%, co-supervisor Zarzoso-Lacoste D.
 
 2021-2023: **Maurice A.-C.** Perception by stakeholders to the ecosystem service of regulation by predation Oversight 80 %, co-supervisor Baudry E.
 
@@ -28,6 +28,16 @@ menu:
 2014-2017: **Palmas P.** Feral cat predation, habitat use and impact at New Caledonia hotspot scale.
 
 ## Oversight of graduate and undergraduate research projects
+
+2024: **Masnou P.** Grad research project. Movement behavior of feral cat population in a context of re-colonisation after control program (2 months). Oversight 50%, co-supervisor Palmas P.
+
+2024: **Campredon M.** Grad research project. Modeling and management scenarios for a complex predator-prey system (5months). Oversight 80%, co-supervisor Lafitte P.
+
+2023: **Demarteau L.** Grad research project. Validation of a camera trap protocol to survey mesopredator space used and potential interactions (3 months). Oversight 100 %
+
+2023: **Cyprien L.** Grad research project. How animal lover differ in their perceptions of predators and associate ecological services (3months). Oversight 40%, co-supervisor Maurice A.C.
+
+2023: **Loiseau D.**: Undergrad project. Camera trap protocol settlement to survey mesopredator space used and potential interactions (6 weeks). Oversight 100 %
 
 2022: **Leca G.**; **Peron M.** Grad project. Study of the microscopic part of the diet of two concomitant predators according to seasonal variations (2months) Oversight 100 %
 
