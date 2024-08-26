@@ -9,11 +9,11 @@ menu:
 
 ![Photo](/7.jpg#floatleft)
 
-# 2021 (planned):
-3 weeks in New Caledonia to participate to a field mission on “Matthew Hunter Walpole Islands”. Biodiversity monitoring, invasive mammal eradication feasibility.
-
-# 2014-on:
+# 2014-2024:
 seasonal field work in surburban areas of Paris South to monitor predator populations (cats and foxes), their diet and their main prey abundances. Field data serve as inputs for community (prey-predators) dynamics models.
+
+# 2021 (canceled):
+3 weeks in New Caledonia to participate to a field mission on “Matthew Hunter Walpole Islands”. Biodiversity monitoring, invasive mammal eradication feasibility.
 
 # 2014:
 * one week in Zembra, island of Tunisia, as expert in invasive mammals to help small Island Mediterranean Initiative team.
