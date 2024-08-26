@@ -31,6 +31,22 @@ nolist: true
 * Ph.D.: Nov. 2005 - Nov. 2008
 
 
+## Research Accreditation:  Nov 2020
+
+*Title*: Top-down process and global changes: How predation influences ecosystem functioning
+
+*Location*: Paris-Saclay University, France
+
+*Examination Board*:
+
+* Pr. Pauline Lafitte, professor, CentraleSupélec School, Paris-Saclay, reviewer.
+* Dr. Marion Valeix, researcher-HDR, LBBE Lab, Lyon, reviewer.
+* Pr. Eric Petit, head of research, Laboratoire ESE, Rennes, reviewer.
+* Dr. Eric Vidal, head of research, UMR Entropie, Nouméa, examiner.
+* Pr. Géraldine Veron, professor, ISYEB, Paris, examiner.
+* Pr. Emmanuelle Baudry, professor, Laboratoire ESE, Paris-Saclay, examiner.
+
+
 ## PhD
 
 *Title*: **Trophic ecology and impact of an introduced top-predator on islands. a case-study with feral cat.**
