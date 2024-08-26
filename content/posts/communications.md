@@ -11,6 +11,10 @@ menu:
 
 ![Photo](/8.jpg#floatleft)
 
+#### · Small Mediterranean island 20th year conference, Aeolian islands, Sicilia, Italy, October 2023
+
+**Bonnaud E.** Introduced mammals threatening native island Mediterranean biodiversity.
+
 #### · SEO-BirdLlife's Annual Congress, Spain, Menorca, October 2022.
 
 **Bonnaud E.** Introduced mammals on Mediterranean Islands where we stand? Critical example of cat predation on seabirds.
@@ -37,7 +41,7 @@ menu:
 
 #### Ecology Across Borders, BES-SFE² Meeting, Liverpool, December 12-15, 2021
 
-**Bonnaud E.**, Lusardi L., Zarzoso-Lacoste D., Lemeler S., Lafitte P., Baudry E., Maurice A.-C. “Top predator dynamics in suburban agroecosystems: their role in crop consumer regulation”
+**Bonnaud E.**, Lusardi L., Zarzoso-Lacoste D., Lemeler S., Lafitte P., Baudry E., Maurice A.-C. “Top predator dynamics in suburban agroecosystems: their role in crop consumer regulation” (Turned into e-poster due to Covid restrictions)
 
 #### · Congress of Ecological French Society, Rennes, France. October 23-26, 2018.
 
