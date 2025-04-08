@@ -29,18 +29,29 @@ menu:
 
 ## Participations to PhD evaluation boards
 
-2024: Defense of Melina Sidous (reviewer)
-2024: Defense of Romain Dejeante (reviewer)
-2023: Defense of Aissa Morin (reviewer)
-2023: Defense of Perrine Lequitte-Charransol (reviewer)
-2022: Defense of Kurt Villesen (reviewer)
-2022: Defense of Angélique Pageneaud (reviewer)
-2022: Defense of Alice Monnier (examiner)
-2021: Julie Bradshi's defense (examiner)
-2021: Elise Say's defense (examiner)
-2020: Viven Loupe's defense (reviewer)
-2013: Sandra Hervias' defense (reviewer)
-2012: Anne Dozière's defense (examiner)
+2024: Defense of **Melina Sidous** (reviewer)
+
+2024: Defense of **Romain Dejeante** (reviewer)
+
+2023: Defense of **Aissa Morin** (reviewer)
+
+2023: Defense of **Perrine Lequitte-Charransol** (reviewer)
+
+2022: Defense of **Kurt Villesen** (reviewer)
+
+2022: Defense of **Angélique Pageneaud** (reviewer)
+
+2022: Defense of **Alice Monnier** (examiner)
+
+2021: Defense of **Julie Bradshi** (examiner)
+
+2021: Defense of **Elise Say** (examiner)
+
+2020: Defense of **Viven Loupe** (reviewer)
+
+2013: Defense of **Sandra Hervias** (reviewer)
+
+2012: Defense of **Anne Dozière** (examiner)
 
 
 ## Oversight of graduate and undergraduate research projects
