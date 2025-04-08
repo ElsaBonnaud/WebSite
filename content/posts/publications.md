@@ -11,6 +11,8 @@ menu:
 
 ![Photo](/20.jpg#floatleft)
 
+* Philippe-Lesaffre M., Bradshaw C.J.A., Castañeda I., Dickman C.R., Lepczyk C., Fantle-Lepczyk J., Marino C., Courchamp F., **Bonnaud E.** (2025) Differential predation patterns of free-ranging cats among continents. Ecography, e07169.
+  
 * Lusardi L., André E., Castañeda I., Lemler S., Lafitte P., Zarzoso-Lacoste D., **Bonnaud E.** (2024) Methods for comparing theoretical models parameterized with field data using biological criteria and Sobol analysis. Ecological Modelling, 493, 110728.
 
 * Philippe-Lesaffre M., Lusardi L., Castaneda I., **Bonnaud E.** (2024) Uncovering intrinsic and extrinsic factors influencing home range size variability in owned domestic cats. Conservation Science and Practice, e13066
@@ -23,7 +25,7 @@ menu:
 
 * Philippe-Lesaffre M., Thibault M., Bourgeois K., Berr T., Ravache A.,Vidal E.,Courchamp F., **Bonnaud E.** (2023). Recovery of insular seabird populations years after rodent eradication. Biological Conservation, 37, e14042.
 
-* Bernery C., Lusardi L., Marino C., Philippe M., Angulo E., **Bonnaud E.**, Guéry L., Manfrini E., Turbelin A., Albert C., Arbieu U., Courchamp F. (2022). The PhD student experience: highlighting the positive aspects (2022). eLife, 11:e81075. 
+* Bernery C., Lusardi L., Marino C., Philippe M., Angulo E., **Bonnaud E.**, Guéry L., Manfrini E., Turbelin A., Albert C., Arbieu U., Courchamp F. (2022). The PhD student experience: highlighting the positive aspects (2022). eLife, 11:e81075.
 
 * Cordonnier M., Ferry N., Renaud E., Maurice A.-C., **Bonnaud E.**, Baudry E. (2022) Drivers of predation by pet cats: environment overcomes predator’s intrinsic characteristics. Accepted in Plos One.
 
@@ -55,7 +57,7 @@ menu:
 
 * Palmas P., Jourdan H., Rigault F., Debar L., De Meringo H., Bourguet E., Mathivet M., Lee M., Papillon Y., **Bonnaud E.** & Vidal E. (2017) Feral cats threaten the outstanding endemic fauna of the New Caledonia biodiversity hotspot, Biological Conservation, 214: 250-259
 
-* Courchamp F., Fournier A., Bellard C., Bertelsmeier C., **Bonnaud E.**, Jeschke J. M.  & Russel J. (2017) Invasion Biology: specific problems and possible solutions). Trends in Ecology and Evolution, 32:13-22.
+* Courchamp F., Fournier A., Bellard C., Bertelsmeier C., **Bonnaud E.**, Jeschke J. M.  & Russel J. (2017) Invasion Biology: specific problems and possible solutions. Trends in Ecology and Evolution, 32:13-22.
 
 * Medina F. M., Farnworth M.J., Nogales M., **Bonnaud E.** (2016). Human-cat relationship in an oceanic Biosphere Reserve: the case of La Palma Island, Canary Archipelago. Journal for Nature Conservation, 34: 8-14.
 
@@ -67,7 +69,7 @@ menu:
 
 * **Bonnaud E.**, Berger G., Zarzoso-Lacoste D., Bourgeois K., Palmas P. & Vidal E. (2015).  First steps in studying cat movement behaviour through VHF tracking at a major world breeding site for the Mediterranean endemic Yelkouan shearwater. Revue d’Ecologie (Terre et Vie), 70 (sup.12 Invasive species »): 162-171.
 
-* **Bonnaud E.** *, Palmas P. *, Bourgeois K., Ollier S., Zarzoso-Lacoste D., Vidal E. (2015). Island specificities matter: cat diet differs significantly between islands of a major breeding archipelago for a vulnerable endemic seabird. Biological Invasions, 17: 2927-2941.
+* **Bonnaud E.** *, Palmas P.*, Bourgeois K., Ollier S., Zarzoso-Lacoste D., Vidal E. (2015). Island specificities matter: cat diet differs significantly between islands of a major breeding archipelago for a vulnerable endemic seabird. Biological Invasions, 17: 2927-2941.
 
 * Nogales M., Castañeda I., López-Darias M., Medina F.M., **Bonnaud E.** (2015) The unnoticed effect of a top predator on complex mutualistic ecological interactions. Biological Invasions, 17: 1655-1665.
 
@@ -83,7 +85,7 @@ menu:
 
 * **Bonnaud E.**, Berger G., Vidal E., Bourgeois K., Legrand J. (2012). Predation by cats could lead to the extinction of the Mediterranean endemic Yelkouan Shearwater Puffinus yelkouan at a major breeding site. Ibis, 154: 566–577
 
-* J.-P. Suraud, J.-M. Gaillard, H. Fritz, J. Fennessy, **E. Bonnaud**, A. Issa. 2012. Higher than expected growth rate in an endangered giraffe population: a successful human-wildlife cohabitation Oryx, sous presse.
+* J.-P. Suraud, J.-M. Gaillard, H. Fritz, J. Fennessy, **E. Bonnaud**, A. Issa. 2012. Higher than expected growth rate in an endangered giraffe population: a successful human-wildlife cohabitation. Oryx, 46: 577-583.
 
 * **E. Bonnaud**, F. Courchamp, F. (2011). Deciphering complex relationships between apparently unrelated species. Animal Conservation, 14: 468-470.
 
@@ -101,9 +103,12 @@ menu:
 
 * **E. Bonnaud**, K. Bourgeois, E. Vidal, Y. Kayser, Y. Tranchant, J. Legrand. (2007) Feeding ecology of a feral cat population on a small Mediterranean Island. Journal of Mammalogy 88: 1074–1081.
 
+# Papers submitted in peer-reviewed journals
+
+* Philippe-Lesaffre M., **Bonnaud E.** Pinpointing bird species vulnerability to free-ranging domestic cats using trait-based predictive models [2nd revision to Biological Indicator].
+* Speakman C.N., Bull S., Cubaynes S., Davis K. J., Devillard S., Fryxell J. M., Gallagher C. A., McHuron E. A., Rastello K., Smallegange I. M., Salguero-Gómez R., **Bonnaud E.**, Duchamp C., Giraudoux P., Lacombe S., Marneweck C.J., Schroll L., Tableau A., Ruette S., Gimenez O. Understanding and predicting population response to anthropogenic disturbance: Current approaches and novel opportunities [submitted to Ecology Letters].
 
 # Book chapters
-
 
 * Spatz D.R., Jones H.P., **Bonnaud E.**, Kappes P., Holmes N.D., Bedolla-Guzmán Y. (2022) Invasive Species Threats to Seabirds. In Conservation on Marine Birds (Ed. by Young L. VanderWerf E.): University of California Press.
 
@@ -117,6 +122,14 @@ menu:
 
 # Other publications
 
+* Gilot-Fromont E., Villena I., **Bonnaud E.**, Fischer C., Giraud E., et al. Évaluation des impacts sur la santé publique de la dynamique des populations de renards. Saisine n°2022-SA-0049, Anses. (2023) 200 p. ⟨anses-04171242⟩
+  
+* Zemman C., Langridge J., Plancke M., Garnier M., Soubelet H. (2023). Les prélèvements des Espèces susceptibles d’occasionner des dégâts (Esod) réduisent-ils les dégâts qui leur sont imputés ? Synthèse de connaissances. Paris, France : FRB. Comité scientifique du projet Cécile ALBERT (IMBE) Marc ARTOIS (VetAgro Sup) Sébastien BAROT (IRD) Michel BERTRAND (INRAE) Aurélien BESNARD (CNRS) **Elsa BONNAUD (U-PSACLAY)** Frédéric JIGUET (MNHN) Anne-Claire MAURICE (U-PSUD) Luc MOUNIER (VetAgro Sup) Lucie ZGAINSKI (INRAE)
+  
+* Hulot F. D., Moyon M.N., Barthes L., Bazot S., **Bonnaud E.**, Branca A., Delpierre N., Lecomte J., Allaire-Duquette G. (2023) Comment les personnes enseignantes-chercheuses perçoivent-elles l'évolution de leurs connaissances en pédagogie après l'implantation d'une approche-programme? XIIème colloque QPES – Questions de Pédagogies dans l’Enseignement Supérieur : Repenser l’enseignement supérieur à la lumière des enjeux sociaux et environnementaux, Lausanne, Suisse
+  
+* Berger G., **Bonnaud E.**, Legrand J., Duhem C., Terlon E. (2011). Recensement de la population de Goéland leucophée (Larus michahellis) des îles d’Hyères. Travaux Scientifique du Parc National de Port-Cros.
+
 * **Bonnaud E.**, Bourgeois K., Zarzoso-Lacoste D., Vidal E. Cat impact and management on two Mediterranean sister Islands: “the French conservation touch”. (2011). In Veitch, C. R.; Clout, M. N. and Towns, D. R. (eds.). Island Invasives: Eradication and Management. Proceedings of the International Conference on Island Invasives. Gland, Switzerland: IUCN and Auckland, New Zealand: CBB. xii + 542pp
 
 * Courchamp F., Caut S., **Bonnaud E.**, Bourgeois K., Angulo E., Cerda X., Watari Y. Surprise effects on Surprise Island: was the rat eradication a success? (2011). In Veitch, C. R.; Clout, M. N. and Towns, D. R. (eds.). Island Invasives: Eradication and Management. Proceedings of the International Conference on Island Invasives. Gland, Switzerland: IUCN and Auckland, New Zealand: CBB. xii + 542pp
@@ -124,5 +137,3 @@ menu:
 * Y. Watari, S. Caut **E. Bonnaud**, K. Bourgeois, F. Courchamp. Recovery of an ecosystem freed from introduced rats. (2011). In Veitch, C. R.; Clout, M. N. and Towns, D. R. (eds.). Island Invasives: Eradication and Management. Proceedings of the International Conference on Island Invasives. Gland, Switzerland: IUCN and Auckland, New Zealand: CBB. xii + 542pp
 
 * Berger G., **Bonnaud E.**, Legrand J., Duhem C., Terlon E. (2011). Recensement de la population de Goéland leucophée (Larus michahellis) des îles d’Hyères. Sci. Rep. Port-Cros natl. Park, Fr., 25: 61-7.
-
-
