@@ -9,7 +9,6 @@ _build:
   render: always
 ---
 
-**Until the 1st of October 2024 please contact me if needed at this email elsabonnaud@gmail.com due to the inaccessibilty of my paris-saclay professional email**
 
 {{< figure src="/3.jpg#floatleft" >}}I’m an **Assistant Professor** at **Paris Saclay University** since 2011.
 
