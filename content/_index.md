@@ -36,7 +36,7 @@ I have co-supervised **3 post-doc**, **4 PhD students**. I am **responsible of 3
 * 2009: 2-star scuba diver (CMAS) biology specialisation
 * 2008: 2-star scuba diver (CMAS)
 * 2007: First aid certificat
-* 2007: Ship’s license (coastal)
+* 2007: Boat license (coastal)
 * 2005: 1-star scuba diver (CMAS)
 
 ## Vulgarization / Science divulgation
