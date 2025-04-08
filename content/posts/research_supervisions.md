@@ -27,7 +27,29 @@ menu:
 
 2014-2017: **Palmas P.** Feral cat predation, habitat use and impact at New Caledonia hotspot scale.
 
+## Participations to PhD evaluation boards
+
+2024: Defense of Melina Sidous (reviewer)
+2024: Defense of Romain Dejeante (reviewer)
+2023: Defense of Aissa Morin (reviewer)
+2023: Defense of Perrine Lequitte-Charransol (reviewer)
+2022: Defense of Kurt Villesen (reviewer)
+2022: Defense of Angélique Pageneaud (reviewer)
+2022: Defense of Alice Monnier (examiner)
+2021: Julie Bradshi's defense (examiner)
+2021: Elise Say's defense (examiner)
+2020: Viven Loupe's defense (reviewer)
+2013: Sandra Hervias' defense (reviewer)
+2012: Anne Dozière's defense (examiner)
+
+
 ## Oversight of graduate and undergraduate research projects
+
+2025: **Berrand B.** Grad research project. How owners and cat personality can influence predatory behavior (6months). Oversight 80%, co-supervisor Baudry E.
+
+2025: **Blin A.** Undergrad project. Evaluation of predation time for free ranging domestic cats (6 weeks). Oversight 100%
+
+2025: **Taybi I.; Pochet A.** Undergrad project. Consumption and behaviour of crop birds in a protocol testing the efficiency of scarecrow drones (6 weeks). Oversight 50%, co-supervisor Ressayre A.
 
 2024: **Masnou P.** Grad research project. Movement behavior of feral cat population in a context of re-colonisation after control program (2 months). Oversight 50%, co-supervisor Palmas P.
 
