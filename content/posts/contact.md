@@ -11,7 +11,7 @@ menu:
 
 ### Office address
 
-**Laboratory Ecology Systematic and Evolution**\
+**Laboratory Ecology Society and Evolution**\
 Université Paris-Saclay\
 UMR - 8079 UPS-CNRS-AgroParisTech\
 Bât. IDEEV\
@@ -21,4 +21,4 @@ FRANCE
 
 ### Email
 
-elsa.bonnaud(at)universite-paris-saclay.fr (temporary unavailable) / <elsabonnaud@gmail.com>
+elsa.bonnaud(at)universite-paris-saclay.fr
