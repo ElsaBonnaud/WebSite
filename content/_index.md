@@ -31,7 +31,7 @@ I have co-supervised **3 post-doc**, **4 PhD students**. I am **responsible of 3
 ## Vulgarization / Science divulgation
 
 * 2025, April: Webinaire for Humensis, science divulgation to primary and secondary school teachers. « Les espèces exotiques envahissantes : qu’en dire, qu’en faire ? ».
-  2025, March: Research training for secondary school teachers. Mesopredators’role in peri urban agrosystems regarding trophic downgrading
+* 2025, March: Research training for secondary school teachers. Mesopredators’role in peri urban agrosystems regarding trophic downgrading
 * 2024, November : Video realisation for the Virtual University of Environment and Sustainable Development. Invasive exotic species on islands issues, research and solutions.
 * 2024, October : Lecture for broad audiance « Le statut du Renard roux et le rôle des mésoprédateurs en contexte agricole »
 * 2024, spring-autumn: production assistance (validation of scientific content) for the ‘Sur le front’ programme: <https://www.france.tv/france-5/sur-le-front/6610970-ces-animaux-envahissent-la-france-qui-les-a-importes.html>
