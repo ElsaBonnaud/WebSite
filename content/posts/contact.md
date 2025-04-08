@@ -9,7 +9,7 @@ menu:
 
 ## Contact
 
-### Office address:
+### Office address
 
 **Laboratory Ecology Systematic and Evolution**\
 Université Paris-Saclay\
@@ -21,5 +21,4 @@ FRANCE
 
 ### Email
 
-elsa.bonnaud(at)universite-paris-saclay.fr (temporary unavailable) / elsabonnaud@gmail.com
-
+elsa.bonnaud(at)universite-paris-saclay.fr (temporary unavailable) / <elsabonnaud@gmail.com>
